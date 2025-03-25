@@ -1,0 +1,39 @@
+{
+    "card_name": "Explore & Prosper Card",
+    "annual_fee": 150,
+    "rewards_rate": 2.5,
+    "welcome_bonus": "50,000 points after spending $3,000 in the first 3 months",
+    "credit_score_required": 700,
+    "income_requirement": 100000,
+    "best_for": [
+        "Real Estate Investment",
+        "Frequent Travelers",
+        "Photography Enthusiasts"
+    ],
+    "features": [
+        "No foreign transaction fees",
+        "Complimentary travel insurance",
+        "Exclusive access to real estate investment webinars",
+        "Photography workshops and discounts"
+    ],
+    "category_rewards": {
+        "travel": 3,
+        "dining": 2,
+        "gas": 1.5,
+        "streaming": 1,
+        "other": 1
+    },
+    "card_type": "Visa Signature",
+    "primary_benefit": "Maximize rewards on travel and lifestyle expenses, tailored for active professionals",
+    "design_theme": "Adventure and Elegance",
+    "visual_elements": [
+        "Matte black finish with gold accents",
+        "Stylized compass design",
+        "Subtle photography motifs integrated into the card background"
+    ],
+    "unique_selling_points": [
+        "Enhanced rewards on travel and lifestyle categories",
+        "Networking opportunities with other professionals through exclusive events",
+        "Personalized travel itineraries and concierge service"
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "High-Value Real Estate Investors": {
+        "card_name": "Elite Investor Card",
+        "annual_fee": 500,
+        "rewards_rate": 3.0,
+        "welcome_bonus": "Earn 50,000 points after spending $5,000 in the first 3 months.",
+        "credit_score_required": 720,
+        "income_requirement": 100000,
+        "best_for": [
+            "High-Value Real Estate Transactions",
+            "Luxury Travel Experiences",
+            "Exclusive Fashion Purchases"
+        ],
+        "features": [
+            "Concierge Service for Travel and Events",
+            "Access to Exclusive Real Estate Investment Webinars",
+            "Premium Insurance Coverage for Travel and Purchases",
+            "No Foreign Transaction Fees"
+        ],
+        "category_rewards": {
+            "travel": 5,
+            "dining": 3,
+            "gas": 2,
+            "streaming": 1,
+            "other": 1
+        },
+        "card_type": "Visa Infinite",
+        "primary_benefit": "Maximize rewards on high-value purchases and travel perks.",
+        "design_theme": "Sleek Modern Elegance",
+        "visual_elements": [
+            "Matte black finish",
+            "Gold embossed lettering",
+            "Minimalist design with geometric patterns"
+        ],
+        "unique_selling_points": [
+            "Tailored rewards for high-value investors and exclusive access to investment opportunities.",
+            "Enhanced travel benefits including airport lounge access and complimentary travel insurance."
+        ]
+    },
+    "Established Professionals": {
+        "card_name": "Prestige Voyager Card",
+        "annual_fee": 250,
+        "rewards_rate": 3.0,
+        "welcome_bonus": "50,000 points after spending $3,000 in the first 3 months",
+        "credit_score_required": 700,
+        "income_requirement": 100000,
+        "best_for": [
+            "Travel Enthusiasts",
+            "Luxury Shoppers",
+            "Frequent Business Travelers"
+        ],
+        "features": [
+            "Complimentary airport lounge access",
+            "Travel insurance coverage",
+            "Personal concierge service",
+            "No foreign transaction fees",
+            "Exclusive discounts on luxury fashion brands"
+        ],
+        "category_rewards": {
+            "travel": 5.0,
+            "dining": 3.0,
+            "gas": 2.0,
+            "streaming": 1.0,
+            "other": 1.0
+        },
+        "card_type": "Visa Infinite",
+        "primary_benefit": "Maximize rewards on travel and luxury spending",
+        "design_theme": "Sophisticated Elegance",
+        "visual_elements": [
+            "Matte black finish",
+            "Gold embossed logo",
+            "Subtle texture for grip",
+            "Elegant geometric patterns"
+        ],
+        "unique_selling_points": [
+            "Premium rewards tailored for luxury and travel",
+            "Dedicated concierge for personalized assistance",
+            "Exclusive partnerships with high-end brands for unique experiences"
+        ]
+    },
+    "Young Professionals": {
+        "card_name": "Young Professional Rewards Card",
+        "annual_fee": 99,
+        "rewards_rate": 2.5,
+        "welcome_bonus": "30,000 points after spending $3,000 in the first 3 months.",
+        "credit_score_required": 700,
+        "income_requirement": 90000,
+        "best_for": [
+            "Travel Enthusiasts",
+            "Gadget Lovers",
+            "Fitness Buffs"
+        ],
+        "features": [
+            "No foreign transaction fees",
+            "Complimentary travel insurance",
+            "Exclusive discounts on fitness memberships",
+            "Gadget protection plan"
+        ],
+        "category_rewards": {
+            "travel": 3,
+            "dining": 2,
+            "gas": 1,
+            "streaming": 1,
+            "other": 0.5
+        },
+        "card_type": "Visa Signature",
+        "primary_benefit": "Earn accelerated rewards on travel and dining, with added perks for fitness and gadget purchases.",
+        "design_theme": "Modern Minimalist",
+        "visual_elements": [
+            "Sleek matte finish",
+            "Subtle geometric patterns",
+            "Metallic accents in gold or silver",
+            "Logo featuring a stylized globe and fitness icon"
+        ],
+        "unique_selling_points": [
+            "Tailored rewards for travel, dining, and lifestyle purchases",
+            "Flexible redemption options including travel, cashback, and gadgets",
+            "Access to exclusive events and networking opportunities for young professionals"
+        ]
+    },
+    "High-Income Middle-Aged Professionals": {
+        "card_name": "Elite Voyager Card",
+        "annual_fee": 250,
+        "rewards_rate": 3.0,
+        "welcome_bonus": "50,000 points after spending $3,000 in the first 3 months",
+        "credit_score_required": 700,
+        "income_requirement": 100000,
+        "best_for": [
+            "Travel enthusiasts",
+            "Food lovers",
+            "Gadget geeks"
+        ],
+        "features": [
+            "No foreign transaction fees",
+            "Complimentary airport lounge access",
+            "Travel insurance coverage",
+            "Exclusive dining experiences",
+            "Gadget purchase protection"
+        ],
+        "category_rewards": {
+            "travel": 5,
+            "dining": 4,
+            "gas": 2,
+            "streaming": 1,
+            "other": 1
+        },
+        "card_type": "Premium",
+        "primary_benefit": "Maximize rewards on travel and dining while enjoying luxury perks.",
+        "design_theme": "Modern Elegance",
+        "visual_elements": [
+            "Matte black finish",
+            "Metallic gold accents",
+            "Embossed cardholder name",
+            "Sleek geometric patterns"
+        ],
+        "unique_selling_points": [
+            "High rewards on travel and dining",
+            "Exclusive access to events and experiences",
+            "Comprehensive insurance coverage for travelers",
+            "Personal concierge service for bookings and arrangements"
+        ]
+    },
+    "Active Middle-Aged Professionals": {
+        "card_name": "Explore & Prosper Card",
+        "annual_fee": 150,
+        "rewards_rate": 2.5,
+        "welcome_bonus": "50,000 points after spending $3,000 in the first 3 months",
+        "credit_score_required": 700,
+        "income_requirement": 100000,
+        "best_for": [
+            "Real Estate Investment",
+            "Frequent Travelers",
+            "Photography Enthusiasts"
+        ],
+        "features": [
+            "No foreign transaction fees",
+            "Complimentary travel insurance",
+            "Exclusive access to real estate investment webinars",
+            "Photography workshops and discounts"
+        ],
+        "category_rewards": {
+            "travel": 3,
+            "dining": 2,
+            "gas": 1.5,
+            "streaming": 1,
+            "other": 1
+        },
+        "card_type": "Visa Signature",
+        "primary_benefit": "Maximize rewards on travel and lifestyle expenses, tailored for active professionals",
+        "design_theme": "Adventure and Elegance",
+        "visual_elements": [
+            "Matte black finish with gold accents",
+            "Stylized compass design",
+            "Subtle photography motifs integrated into the card background"
+        ],
+        "unique_selling_points": [
+            "Enhanced rewards on travel and lifestyle categories",
+            "Networking opportunities with other professionals through exclusive events",
+            "Personalized travel itineraries and concierge service"
+        ]
+    }
+}

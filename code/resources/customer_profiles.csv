@@ -1,0 +1,677 @@
+customer_ID,Age,Interests,Income per Year (in dollars),Occupation
+CUST2025UE,46,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",111721.13,Consultant
+CUST2025QB,65,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",108851.45,Software Engineer
+CUST2025UI,46,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",154548.09,Product Manager
+CUST2025SB,57,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",119660.66,Real Estate Agent
+CUST2025LU,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate",119181.6,Product Manager
+CUST2025TT,43,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",79270.46,Financial Analyst
+CUST2025LI,54,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",127793.53,Product Manager
+CUST2025VJ,24,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",159240.65,Product Manager
+CUST2025DA,62,"Daily Essentials, Gadgets, Luxury Fashion, Real Estate, Travel",140584.85,Business Owner
+CUST2025CQ,28,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",107189.62,Sales Executive
+CUST2025UD,42,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",124871.44,Product Manager
+CUST2025BV,28,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",161450.04,Software Engineer
+CUST2025XT,58,"Fitness, Food, Gadgets, Luxury Fashion, Travel",126981.39,Product Manager
+CUST2025CK,27,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",152689.46,Marketing Manager
+CUST2025KG,29,"Fitness, Food, Photography, Real Estate, Travel",96972.35,Real Estate Agent
+CUST2025QV,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",117358.6,Sales Executive
+CUST2025SK,37,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",166647.93,Software Engineer
+CUST2025MZ,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",131818.98,Product Manager
+CUST2025GO,36,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",141565.37,Product Manager
+CUST2025BS,30,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",99890.97,Real Estate Agent
+CUST2025LG,29,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",125460.46,Consultant
+CUST2025DV,64,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",66420.95,Sales Executive
+CUST2025SJ,36,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",125857.87,Software Engineer
+CUST2025BK,62,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography",163534.82,Product Manager
+CUST2025CU,24,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",86697.68,Sales Executive
+CUST2025JT,25,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",80603.37,Sales Executive
+CUST2025GI,53,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",152289.91,Product Manager
+CUST2025EK,38,"Daily Essentials, Entertainment, Fitness, Food, Real Estate, Travel",219547.22,Business Owner
+CUST2025BJ,65,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",230559.86,Business Owner
+CUST2025GZ,58,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",87645.73,Consultant
+CUST2025QO,29,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",184325.92,Product Manager
+CUST2025YS,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",126604.45,Software Engineer
+CUST2025YT,64,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",150805.5,Business Owner
+CUST2025ZW,47,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Travel",112704.59,Sales Executive
+CUST2025RA,29,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",276950.8,Business Owner
+CUST2025ZY,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",84366.77,Consultant
+CUST2025BF,46,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",79728.24,Financial Analyst
+CUST2025RK,58,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",193520.56,Business Owner
+CUST2025DM,56,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",135545.96,Financial Analyst
+CUST2025LL,33,"Daily Essentials, Entertainment, Gadgets, Photography, Real Estate, Travel",131449.54,Consultant
+CUST2025KD,50,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",89759.97,Product Manager
+CUST2025NK,49,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",104076.91,Consultant
+CUST2025BA,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",126136.99,Financial Analyst
+CUST2025WP,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Real Estate, Travel",286515.65,Business Owner
+CUST2025NS,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",60141.35,Real Estate Agent
+CUST2025YU,38,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",64438.02,Real Estate Agent
+CUST2025SA,27,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",76661.03,Financial Analyst
+CUST2025AY,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",163312.16,Product Manager
+CUST2025EG,30,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",112020.88,Sales Executive
+CUST2025IF,42,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",96526.03,Real Estate Agent
+CUST2025XC,54,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",137127.08,Software Engineer
+CUST2025LK,28,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",155810.07,Product Manager
+CUST2025OR,26,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",150059.79,Product Manager
+CUST2025YK,51,"Daily Essentials, Fitness, Real Estate, Travel",180904.42,Product Manager
+CUST2025JU,49,"Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",70133.45,Real Estate Agent
+CUST2025MQ,63,"Daily Essentials, Food, Luxury Fashion, Real Estate, Travel",110346.43,Sales Executive
+CUST2025MC,61,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",98957.55,Product Manager
+CUST2025AL,62,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",96222.77,Sales Executive
+CUST2025IO,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion",169683.53,Marketing Manager
+CUST2025US,53,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",152448.45,Business Owner
+CUST2025WH,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",105700.87,Real Estate Agent
+CUST2025JS,65,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",139149.38,Product Manager
+CUST2025EY,46,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",221324.52,Business Owner
+CUST2025SV,27,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",107768.77,Marketing Manager
+CUST2025AW,29,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",157923.35,Software Engineer
+CUST2025ND,59,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",104240.32,Consultant
+CUST2025QE,56,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",142111.83,Software Engineer
+CUST2025ZX,38,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",95383.09,Sales Executive
+CUST2025WE,61,"Daily Essentials, Food, Gadgets, Luxury Fashion, Real Estate, Travel",101326.37,Consultant
+CUST2025QP,27,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",129664.57,Product Manager
+CUST2025CM,52,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",92030.43,Product Manager
+CUST2025AQ,43,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",90355.03,Financial Analyst
+CUST2025WU,58,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",120334.84,Real Estate Agent
+CUST2025NM,61,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",87602.64,Product Manager
+CUST2025HY,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",70107.05,Consultant
+CUST2025NV,57,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",184985.07,Business Owner
+CUST2025SX,28,"Entertainment, Gadgets, Luxury Fashion, Travel",128571.27,Product Manager
+CUST2025LV,61,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",126796.43,Marketing Manager
+CUST2025GG,46,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",239505.25,Business Owner
+CUST2025ID,47,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",186647.17,Marketing Manager
+CUST2025GX,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",108593.69,Marketing Manager
+CUST2025RX,47,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",165163.7,Business Owner
+CUST2025FS,46,"Entertainment, Food, Gadgets, Luxury Fashion, Photography",181478.15,Marketing Manager
+CUST2025VU,64,"Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",144051.47,Software Engineer
+CUST2025OE,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",64132.52,Sales Executive
+CUST2025AA,31,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",105233.28,Sales Executive
+CUST2025KI,42,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",292094.61,Business Owner
+CUST2025QD,45,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",130970.67,Consultant
+CUST2025JP,52,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",100657.8,Software Engineer
+CUST2025DS,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",94866.17,Consultant
+CUST2025FD,39,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",154321.56,Marketing Manager
+CUST2025UM,64,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",109259.37,Real Estate Agent
+CUST2025NU,53,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",137665.09,Software Engineer
+CUST2025QY,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",288321.03,Business Owner
+CUST2025GJ,30,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",181225.8,Business Owner
+CUST2025UU,33,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",128245.66,Business Owner
+CUST2025ZQ,33,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",138441.25,Software Engineer
+CUST2025CE,44,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",86966.61,Real Estate Agent
+CUST2025EE,40,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",172079.64,Software Engineer
+CUST2025EP,54,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",143512.08,Software Engineer
+CUST2025GU,52,"Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",58549.24,Real Estate Agent
+CUST2025NW,31,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",145549.09,Software Engineer
+CUST2025FJ,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",112554.49,Sales Executive
+CUST2025GN,58,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",110740.08,Consultant
+CUST2025JQ,56,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",109447.69,Sales Executive
+CUST2025FO,34,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",151163.81,Business Owner
+CUST2025XU,32,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",188834.39,Business Owner
+CUST2025RE,31,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Travel",100698.37,Sales Executive
+CUST2025OG,57,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",297551.88,Business Owner
+CUST2025YE,37,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",95047.94,Real Estate Agent
+CUST2025YI,55,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",133153.03,Consultant
+CUST2025QS,29,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Travel",145936.99,Software Engineer
+CUST2025BL,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",100047.01,Consultant
+CUST2025SY,29,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",98706.65,Real Estate Agent
+CUST2025TO,56,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",156970.75,Business Owner
+CUST2025DU,34,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",91276.08,Real Estate Agent
+CUST2025XP,37,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",119749.89,Sales Executive
+CUST2025DO,55,"Entertainment, Fitness, Food, Photography, Real Estate, Travel",170551.26,Product Manager
+CUST2025OM,38,"Food, Gadgets, Luxury Fashion, Photography",115455.5,Real Estate Agent
+CUST2025QF,58,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",219350.54,Business Owner
+CUST2025MP,58,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",199169.12,Business Owner
+CUST2025UA,28,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",87913.83,Financial Analyst
+CUST2025QA,24,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",105066.93,Sales Executive
+CUST2025DJ,62,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",185196.54,Marketing Manager
+CUST2025HB,49,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",95042.18,Sales Executive
+CUST2025TK,59,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",58599.38,Real Estate Agent
+CUST2025PY,48,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",115916.42,Software Engineer
+CUST2025GY,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",92585.4,Financial Analyst
+CUST2025UY,41,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",80901.62,Financial Analyst
+CUST2025GC,41,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",97011.78,Real Estate Agent
+CUST2025HX,41,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",104366.52,Financial Analyst
+CUST2025PK,54,"Daily Essentials, Fitness, Food, Gadgets, Photography, Travel",79925.14,Consultant
+CUST2025FA,24,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",120549.54,Consultant
+CUST2025GT,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Real Estate, Travel",76286.7,Consultant
+CUST2025PN,26,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",147487.9,Consultant
+CUST2025QH,63,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",94710.59,Software Engineer
+CUST2025XV,34,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",180754.33,Marketing Manager
+CUST2025AZ,28,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",133712.93,Product Manager
+CUST2025LH,34,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",116442.77,Sales Executive
+CUST2025XQ,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",74771.36,Real Estate Agent
+CUST2025ZS,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",181497.03,Business Owner
+CUST2025RT,47,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",174976.86,Business Owner
+CUST2025XD,64,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",259730.89,Business Owner
+CUST2025VM,32,"Daily Essentials, Entertainment, Luxury Fashion, Real Estate, Travel",119338.91,Software Engineer
+CUST2025WD,27,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",111135.67,Consultant
+CUST2025JW,57,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",103441.84,Consultant
+CUST2025YR,25,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",156192.66,Product Manager
+CUST2025CN,48,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",167128.31,Business Owner
+CUST2025DT,44,"Daily Essentials, Fitness, Food, Gadgets, Photography, Travel",201066.78,Business Owner
+CUST2025VS,22,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",111229.53,Consultant
+CUST2025MN,59,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",136950.53,Software Engineer
+CUST2025XX,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",119965.55,Business Owner
+CUST2025MR,63,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",56484.8,Real Estate Agent
+CUST2025RB,39,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",158403.47,Marketing Manager
+CUST2025HS,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",241056.93,Business Owner
+CUST2025PZ,34,"Daily Essentials, Entertainment, Gadgets, Photography, Real Estate, Travel",108142.36,Marketing Manager
+CUST2025YO,49,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",85352.62,Consultant
+CUST2025NC,42,"Daily Essentials, Food, Luxury Fashion, Photography, Real Estate, Travel",50149.2,Real Estate Agent
+CUST2025DE,46,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",75719.06,Sales Executive
+CUST2025SU,44,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",65094.86,Real Estate Agent
+CUST2025XG,54,"Daily Essentials, Food, Luxury Fashion, Photography, Real Estate, Travel",111465.53,Marketing Manager
+CUST2025UR,41,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",103234.05,Financial Analyst
+CUST2025MD,65,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",153031.97,Product Manager
+CUST2025XI,29,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",105817.4,Software Engineer
+CUST2025ZD,42,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",98376.73,Consultant
+CUST2025OB,46,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",89659.44,Real Estate Agent
+CUST2025SL,23,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",116581.4,Real Estate Agent
+CUST2025FC,41,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100212.32,Software Engineer
+CUST2025AP,34,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",88732.59,Consultant
+CUST2025SQ,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",90068.66,Marketing Manager
+CUST2025IT,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",193523.94,Marketing Manager
+CUST2025YF,30,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",90558.94,Product Manager
+CUST2025WN,35,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",131659.77,Product Manager
+CUST2025RQ,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",178757.91,Business Owner
+CUST2025PI,50,"Entertainment, Fitness, Luxury Fashion, Photography, Travel",98365.23,Product Manager
+CUST2025QJ,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",125312.37,Marketing Manager
+CUST2025NH,57,"Gadgets, Luxury Fashion, Photography, Real Estate, Travel",86415.43,Marketing Manager
+CUST2025NN,60,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",89317.21,Marketing Manager
+CUST2025PT,36,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",156024.36,Software Engineer
+CUST2025KV,24,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Real Estate, Travel",117462.15,Financial Analyst
+CUST2025NJ,44,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",120613.77,Product Manager
+CUST2025BP,50,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography",78834.22,Sales Executive
+CUST2025UJ,39,"Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",161491.66,Software Engineer
+CUST2025KZ,28,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",265760.19,Business Owner
+CUST2025WT,42,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Travel",128404.69,Real Estate Agent
+CUST2025EJ,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",63898.49,Sales Executive
+CUST2025UQ,36,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",197573.4,Marketing Manager
+CUST2025IW,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",66960.8,Sales Executive
+CUST2025PJ,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",116277.52,Real Estate Agent
+CUST2025CL,45,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",84813.24,Real Estate Agent
+CUST2025BE,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",101777.56,Business Owner
+CUST2025UC,65,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",96626.41,Real Estate Agent
+CUST2025CT,37,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",160945.62,Marketing Manager
+CUST2025LR,27,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",149266.22,Financial Analyst
+CUST2025IG,40,"Daily Essentials, Entertainment, Fitness, Food, Real Estate, Travel",225442.84,Business Owner
+CUST2025OX,41,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",116670.45,Consultant
+CUST2025TA,42,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",104947.46,Consultant
+CUST2025JF,33,"Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",163509.47,Software Engineer
+CUST2025GV,34,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",224106.16,Business Owner
+CUST2025AU,55,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",98955.79,Software Engineer
+CUST2025FV,62,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",149934.16,Product Manager
+CUST2025KX,50,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",96404.45,Sales Executive
+CUST2025LE,27,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",123994.93,Financial Analyst
+CUST2025ME,40,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",113269.27,Financial Analyst
+CUST2025HZ,65,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",186775.84,Marketing Manager
+CUST2025DN,46,"Daily Essentials, Food, Gadgets, Luxury Fashion, Real Estate, Travel",99810.2,Financial Analyst
+CUST2025NY,60,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",103919.56,Software Engineer
+CUST2025KT,22,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",101814.97,Software Engineer
+CUST2025LB,32,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",121388.92,Business Owner
+CUST2025MW,64,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",124005.62,Financial Analyst
+CUST2025MY,24,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",70016.28,Sales Executive
+CUST2025EA,31,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Travel",184348.11,Product Manager
+CUST2025TD,51,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",129629.17,Financial Analyst
+CUST2025OH,63,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",186493.43,Marketing Manager
+CUST2025DH,25,"Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate",146531.14,Financial Analyst
+CUST2025XA,37,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",163499.93,Business Owner
+CUST2025TJ,58,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",152246.88,Consultant
+CUST2025OS,23,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Travel",68135.09,Real Estate Agent
+CUST2025YB,39,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100422.67,Business Owner
+CUST2025HP,44,"Daily Essentials, Fitness, Luxury Fashion, Real Estate, Travel",299563.23,Business Owner
+CUST2025LS,35,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",90070.23,Sales Executive
+CUST2025DK,42,"Daily Essentials, Fitness, Food, Luxury Fashion, Real Estate, Travel",98703.43,Product Manager
+CUST2025JN,40,"Daily Essentials, Fitness, Food, Photography, Real Estate, Travel",108820.15,Sales Executive
+CUST2025TG,25,"Entertainment, Fitness, Food, Gadgets, Real Estate, Travel",167229.87,Business Owner
+CUST2025RJ,44,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",236400.35,Business Owner
+CUST2025KE,57,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate",189008.21,Product Manager
+CUST2025QX,33,"Daily Essentials, Entertainment, Food, Gadgets, Real Estate, Travel",189104.82,Business Owner
+CUST2025HH,51,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",278653.56,Business Owner
+CUST2025BI,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",78080.68,Real Estate Agent
+CUST2025FK,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",119350.66,Sales Executive
+CUST2025VZ,65,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",130727.27,Consultant
+CUST2025WB,27,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",159675.88,Business Owner
+CUST2025QQ,33,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",177672.35,Business Owner
+CUST2025IA,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",202402.81,Business Owner
+CUST2025MX,57,"Daily Essentials, Photography, Real Estate, Travel",109205.99,Software Engineer
+CUST2025IY,60,"Food, Luxury Fashion, Photography, Real Estate, Travel",88870.43,Marketing Manager
+CUST2025TI,44,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",262924.39,Business Owner
+CUST2025QK,38,"Daily Essentials, Food, Luxury Fashion, Photography, Real Estate, Travel",77755.26,Financial Analyst
+CUST2025LP,47,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",81089.75,Consultant
+CUST2025CS,52,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",130355.67,Marketing Manager
+CUST2025NP,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate",148394.55,Product Manager
+CUST2025EW,37,"Entertainment, Gadgets, Luxury Fashion, Real Estate, Travel",158344.87,Marketing Manager
+CUST2025XB,63,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",77478.68,Financial Analyst
+CUST2025TN,49,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",87613.11,Marketing Manager
+CUST2025DB,35,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",194300.16,Business Owner
+CUST2025IC,24,"Daily Essentials, Entertainment, Fitness, Photography, Real Estate, Travel",70984.22,Sales Executive
+CUST2025WS,37,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",127257.03,Business Owner
+CUST2025RW,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",127486.94,Software Engineer
+CUST2025ZB,57,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",160602.08,Product Manager
+CUST2025BQ,36,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",139045.28,Product Manager
+CUST2025WF,32,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",175272.68,Marketing Manager
+CUST2025JK,35,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",80062.07,Real Estate Agent
+CUST2025UH,61,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate",110057.2,Consultant
+CUST2025BU,50,"Daily Essentials, Entertainment, Food, Luxury Fashion, Real Estate, Travel",93645.28,Sales Executive
+CUST2025RO,64,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",123677.16,Financial Analyst
+CUST2025IP,37,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",153191.85,Business Owner
+CUST2025KJ,24,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",129412.14,Real Estate Agent
+CUST2025SH,35,"Entertainment, Food, Luxury Fashion, Photography, Travel",141133.3,Product Manager
+CUST2025LA,49,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",101456.82,Real Estate Agent
+CUST2025TP,26,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",108645.03,Marketing Manager
+CUST2025NO,61,"Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",283806.5,Business Owner
+CUST2025VO,36,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Travel",106099.22,Real Estate Agent
+CUST2025KU,43,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",167495.12,Marketing Manager
+CUST2025NA,22,"Daily Essentials, Gadgets, Real Estate, Travel",81832.79,Real Estate Agent
+CUST2025HE,57,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",65204.34,Real Estate Agent
+CUST2025SW,52,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",98742.74,Software Engineer
+CUST2025ML,51,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",83287.17,Consultant
+CUST2025CR,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",105764.02,Consultant
+CUST2025GE,52,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",103428.93,Sales Executive
+CUST2025HK,34,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",74756.49,Sales Executive
+CUST2025IS,63,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",155457.27,Software Engineer
+CUST2025LQ,30,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",115400.11,Financial Analyst
+CUST2025WX,50,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",63868.44,Real Estate Agent
+CUST2025ZU,50,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",83396.7,Sales Executive
+CUST2025TS,43,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",109599.07,Real Estate Agent
+CUST2025AM,34,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",87403.91,Financial Analyst
+CUST2025WO,59,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",132111.07,Software Engineer
+CUST2025MM,36,"Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",77066.35,Sales Executive
+CUST2025PH,61,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",107800.69,Sales Executive
+CUST2025II,63,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Travel",90748.32,Consultant
+CUST2025TH,36,"Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",108777.06,Financial Analyst
+CUST2025LJ,36,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",107830.85,Real Estate Agent
+CUST2025HJ,36,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",281163.46,Business Owner
+CUST2025JV,58,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",121736.81,Business Owner
+CUST2025BG,65,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",85841.27,Real Estate Agent
+CUST2025VA,22,"Daily Essentials, Food, Gadgets, Photography, Real Estate, Travel",120775.19,Consultant
+CUST2025ZN,46,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",130909.91,Consultant
+CUST2025ZJ,63,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",102101.94,Software Engineer
+CUST2025TW,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",92119.72,Real Estate Agent
+CUST2025RN,51,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",163215.38,Software Engineer
+CUST2025FG,61,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",98577.1,Real Estate Agent
+CUST2025MA,40,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Travel",108892.59,Consultant
+CUST2025IV,29,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",111554.64,Sales Executive
+CUST2025FX,22,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Travel",118870.09,Software Engineer
+CUST2025MG,58,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",100141.77,Product Manager
+CUST2025LO,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",138943.95,Software Engineer
+CUST2025CO,49,"Entertainment, Fitness, Gadgets, Photography, Travel",73597.8,Sales Executive
+CUST2025VR,49,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",146196.94,Product Manager
+CUST2025QW,22,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",145097.14,Financial Analyst
+CUST2025DC,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",189563.04,Marketing Manager
+CUST2025PA,36,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",144784.47,Software Engineer
+CUST2025UG,31,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",141939.62,Marketing Manager
+CUST2025ZV,26,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",98104.3,Sales Executive
+CUST2025BR,27,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Travel",148951.57,Product Manager
+CUST2025BZ,57,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",88915.73,Financial Analyst
+CUST2025DR,24,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",88862.03,Financial Analyst
+CUST2025YC,24,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",171627.62,Marketing Manager
+CUST2025WR,62,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",135972.61,Consultant
+CUST2025VL,53,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",65140.41,Sales Executive
+CUST2025JA,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",57864.4,Real Estate Agent
+CUST2025XO,51,"Daily Essentials, Entertainment, Fitness, Photography, Real Estate, Travel",134997.67,Business Owner
+CUST2025CJ,65,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",129669.48,Consultant
+CUST2025ZM,57,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Travel",120010.17,Consultant
+CUST2025HW,39,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",177018.99,Business Owner
+CUST2025RV,62,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",165400.78,Marketing Manager
+CUST2025YW,35,"Daily Essentials, Fitness, Gadgets, Travel",51043.31,Real Estate Agent
+CUST2025HQ,48,"Entertainment, Gadgets, Photography, Real Estate, Travel",137467.73,Marketing Manager
+CUST2025XW,52,"Daily Essentials, Food, Luxury Fashion, Travel",84651.13,Financial Analyst
+CUST2025PR,43,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",91055.82,Sales Executive
+CUST2025KL,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",178188.67,Software Engineer
+CUST2025EF,50,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Travel",134938.14,Consultant
+CUST2025SG,43,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",138358.32,Software Engineer
+CUST2025AB,57,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",153912.68,Marketing Manager
+CUST2025CD,24,"Daily Essentials, Fitness, Food, Gadgets, Photography, Travel",52700.48,Real Estate Agent
+CUST2025OQ,63,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",104381.41,Financial Analyst
+CUST2025GS,59,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",148903.54,Consultant
+CUST2025UP,59,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",289547.26,Business Owner
+CUST2025LX,63,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",125680.79,Consultant
+CUST2025TM,53,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",65011.48,Sales Executive
+CUST2025YP,43,"Fitness, Gadgets, Photography, Real Estate, Travel",141337.98,Product Manager
+CUST2025BB,38,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",153623.42,Software Engineer
+CUST2025IE,65,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",133619.28,Product Manager
+CUST2025HG,32,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",132741.08,Product Manager
+CUST2025IH,61,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",89921.84,Consultant
+CUST2025QI,51,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",69852.66,Sales Executive
+CUST2025DP,52,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",86779.78,Consultant
+CUST2025AI,27,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Travel",130492.04,Software Engineer
+CUST2025OT,47,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",87286.64,Financial Analyst
+CUST2025SE,50,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",145361.54,Software Engineer
+CUST2025KB,51,"Daily Essentials, Fitness, Food, Photography, Travel",149288.72,Marketing Manager
+CUST2025SC,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",97464.92,Financial Analyst
+CUST2025ZI,52,"Daily Essentials, Entertainment, Photography, Real Estate, Travel",98205.84,Product Manager
+CUST2025KF,28,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",218315.67,Business Owner
+CUST2025UW,36,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",119298.47,Sales Executive
+CUST2025MF,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",248431.48,Business Owner
+CUST2025HM,46,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",138424.22,Marketing Manager
+CUST2025WQ,47,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",197750.82,Business Owner
+CUST2025CF,64,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate",158822.35,Business Owner
+CUST2025NI,52,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",114937.62,Consultant
+CUST2025CA,58,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",148638.65,Consultant
+CUST2025DX,55,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",129037.58,Product Manager
+CUST2025AF,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",105000.63,Business Owner
+CUST2025EQ,55,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",183373.67,Product Manager
+CUST2025TF,40,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",260420.97,Business Owner
+CUST2025EZ,56,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",82981.47,Real Estate Agent
+CUST2025QZ,39,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",62657.03,Sales Executive
+CUST2025PF,33,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",107058.2,Consultant
+CUST2025RF,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",140500.9,Financial Analyst
+CUST2025IJ,33,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",75778.45,Financial Analyst
+CUST2025AX,22,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",163569.11,Software Engineer
+CUST2025ZF,45,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",60674.82,Sales Executive
+CUST2025KW,54,"Daily Essentials, Entertainment, Fitness, Food, Photography, Travel",51397.86,Real Estate Agent
+CUST2025OI,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",97357.79,Marketing Manager
+CUST2025RD,27,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",86955.8,Consultant
+CUST2025AE,37,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",132227.52,Financial Analyst
+CUST2025JX,42,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",113515.77,Marketing Manager
+CUST2025TV,51,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",82718.1,Financial Analyst
+CUST2025FF,65,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",144056.81,Product Manager
+CUST2025KC,22,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",129153.66,Financial Analyst
+CUST2025OV,47,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",52381.57,Real Estate Agent
+CUST2025NR,62,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",140979.02,Financial Analyst
+CUST2025HL,25,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",66925.17,Sales Executive
+CUST2025VY,34,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",68736.8,Sales Executive
+CUST2025VF,41,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",122262.17,Real Estate Agent
+CUST2025AG,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",85606.13,Sales Executive
+CUST2025AD,52,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",129240.97,Marketing Manager
+CUST2025IR,38,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",234695.45,Business Owner
+CUST2025ZK,23,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate",178005.21,Software Engineer
+CUST2025KA,50,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",123095.39,Real Estate Agent
+CUST2025NZ,56,"Entertainment, Fitness, Food, Gadgets, Photography, Travel",114298.78,Real Estate Agent
+CUST2025VW,22,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",133109.53,Consultant
+CUST2025PL,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",109822.21,Product Manager
+CUST2025RZ,45,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",64028.88,Sales Executive
+CUST2025UX,65,"Entertainment, Food, Luxury Fashion, Real Estate, Travel",149569.81,Software Engineer
+CUST2025VV,39,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",126157.76,Financial Analyst
+CUST2025TC,60,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",235034.69,Business Owner
+CUST2025NX,50,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",138930.83,Financial Analyst
+CUST2025UL,53,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",71893.96,Sales Executive
+CUST2025AT,23,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",198582.98,Marketing Manager
+CUST2025SP,45,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",170006.63,Product Manager
+CUST2025XK,30,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",171899.49,Product Manager
+CUST2025XJ,53,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",117252.72,Financial Analyst
+CUST2025EX,23,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",92572.47,Product Manager
+CUST2025JC,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",244586.01,Business Owner
+CUST2025KQ,55,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",126178.43,Financial Analyst
+CUST2025ON,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",233434.18,Business Owner
+CUST2025DF,58,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",174942.03,Marketing Manager
+CUST2025CW,25,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Real Estate, Travel",259590.6,Business Owner
+CUST2025YG,42,"Daily Essentials, Entertainment, Food, Gadgets, Real Estate, Travel",106218.92,Consultant
+CUST2025KK,42,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",94574.86,Marketing Manager
+CUST2025LC,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",142023.1,Financial Analyst
+CUST2025JO,26,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate",169568.42,Software Engineer
+CUST2025SM,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",138290.27,Marketing Manager
+CUST2025RH,42,"Daily Essentials, Entertainment, Fitness, Food, Real Estate, Travel",112332.69,Software Engineer
+CUST2025JZ,22,"Daily Essentials, Fitness, Food, Gadgets, Real Estate, Travel",180845.13,Business Owner
+CUST2025NL,52,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",130133.07,Marketing Manager
+CUST2025GR,35,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",111087.62,Consultant
+CUST2025BH,60,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Travel",86112.48,Financial Analyst
+CUST2025KY,38,"Daily Essentials, Entertainment, Fitness, Food, Real Estate",165222.43,Marketing Manager
+CUST2025PQ,46,"Fitness, Food, Photography",121362.64,Financial Analyst
+CUST2025LY,46,"Daily Essentials, Food, Gadgets, Photography, Travel",284685.26,Business Owner
+CUST2025QR,27,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",117704.74,Software Engineer
+CUST2025OF,23,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",74918.17,Consultant
+CUST2025TU,23,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",101907.72,Consultant
+CUST2025AO,58,"Fitness, Food, Gadgets, Photography, Real Estate",126841.29,Software Engineer
+CUST2025CH,58,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",122581.2,Consultant
+CUST2025IX,45,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",124037.67,Software Engineer
+CUST2025KH,46,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",228436.19,Business Owner
+CUST2025FI,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",113820.98,Software Engineer
+CUST2025XF,34,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",298431.33,Business Owner
+CUST2025XE,39,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",63844.24,Sales Executive
+CUST2025NB,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",137861.21,Product Manager
+CUST2025OW,60,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",102172.43,Sales Executive
+CUST2025VQ,46,"Daily Essentials, Entertainment, Fitness, Food, Real Estate",101819.92,Software Engineer
+CUST2025PD,64,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",95120.06,Financial Analyst
+CUST2025SS,63,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",111680.35,Marketing Manager
+CUST2025QU,57,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",103505.34,Real Estate Agent
+CUST2025LT,28,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",126777.54,Business Owner
+CUST2025MS,32,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",87171.63,Financial Analyst
+CUST2025FY,29,"Daily Essentials, Food, Gadgets, Real Estate",152366.6,Software Engineer
+CUST2025ZG,40,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion",121482.02,Consultant
+CUST2025BY,52,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",127732.0,Financial Analyst
+CUST2025EU,61,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",79273.58,Sales Executive
+CUST2025WY,27,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",108504.47,Real Estate Agent
+CUST2025QG,37,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",85113.89,Financial Analyst
+CUST2025IB,37,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",146789.15,Software Engineer
+CUST2025KR,54,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",123385.59,Product Manager
+CUST2025EI,33,"Entertainment, Food, Gadgets, Photography, Real Estate, Travel",102222.86,Marketing Manager
+CUST2025KP,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",104927.88,Marketing Manager
+CUST2025HU,29,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",118390.71,Real Estate Agent
+CUST2025YH,41,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",92895.91,Sales Executive
+CUST2025FH,50,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",121908.31,Marketing Manager
+CUST2025FU,37,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",101622.2,Sales Executive
+CUST2025NT,59,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",80014.6,Financial Analyst
+CUST2025YJ,51,"Daily Essentials, Entertainment, Luxury Fashion, Photography",148445.94,Marketing Manager
+CUST2025JH,49,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",88646.23,Real Estate Agent
+CUST2025PX,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",95246.32,Product Manager
+CUST2025AH,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",179078.5,Marketing Manager
+CUST2025JB,57,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",64713.97,Sales Executive
+CUST2025YZ,28,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",147614.63,Software Engineer
+CUST2025YX,41,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",66581.78,Sales Executive
+CUST2025VP,46,"Daily Essentials, Entertainment, Food, Luxury Fashion, Real Estate, Travel",175092.92,Product Manager
+CUST2025TZ,25,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",174031.29,Marketing Manager
+CUST2025NE,59,"Food, Gadgets, Photography, Real Estate, Travel",72743.22,Real Estate Agent
+CUST2025HR,44,"Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",106151.59,Marketing Manager
+CUST2025JE,38,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",119559.81,Product Manager
+CUST2025ZT,53,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",141089.98,Marketing Manager
+CUST2025VE,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",238347.57,Business Owner
+CUST2025GA,40,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",162270.55,Software Engineer
+CUST2025VX,59,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography",148464.74,Financial Analyst
+CUST2025WL,62,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",105880.82,Software Engineer
+CUST2025GP,59,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",171384.29,Business Owner
+CUST2025GK,34,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",169427.35,Software Engineer
+CUST2025JG,54,"Daily Essentials, Entertainment, Fitness, Food, Photography, Real Estate, Travel",136624.29,Marketing Manager
+CUST2025FZ,34,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",118682.09,Real Estate Agent
+CUST2025MK,63,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",148703.39,Financial Analyst
+CUST2025DI,36,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",199837.4,Marketing Manager
+CUST2025FQ,32,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Travel",74018.18,Consultant
+CUST2025AR,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",135529.42,Product Manager
+CUST2025OD,26,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",115898.85,Product Manager
+CUST2025GW,40,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",93834.82,Consultant
+CUST2025NF,65,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",82656.19,Marketing Manager
+CUST2025QC,31,"Daily Essentials, Entertainment, Food, Gadgets, Real Estate, Travel",288240.87,Business Owner
+CUST2025IL,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",125681.75,Business Owner
+CUST2025EV,52,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",236570.72,Business Owner
+CUST2025JD,31,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",141524.49,Financial Analyst
+CUST2025WC,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",136892.21,Software Engineer
+CUST2025FN,52,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",166310.05,Software Engineer
+CUST2025SD,35,"Entertainment, Food, Gadgets, Luxury Fashion, Travel",147059.19,Software Engineer
+CUST2025RG,39,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",133299.18,Financial Analyst
+CUST2025GM,56,"Daily Essentials, Fitness, Food, Gadgets, Real Estate, Travel",166820.26,Software Engineer
+CUST2025PW,35,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",158240.53,Business Owner
+CUST2025GH,44,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",116526.08,Product Manager
+CUST2025LM,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100792.98,Financial Analyst
+CUST2025UZ,52,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Real Estate, Travel",118370.24,Real Estate Agent
+CUST2025ET,35,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",146568.46,Marketing Manager
+CUST2025RR,32,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",87760.46,Marketing Manager
+CUST2025VN,33,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",110267.88,Product Manager
+CUST2025YY,38,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",128977.8,Consultant
+CUST2025SZ,60,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",93860.12,Sales Executive
+CUST2025BX,29,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",93616.75,Software Engineer
+CUST2025FT,43,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",125284.97,Real Estate Agent
+CUST2025RS,42,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",97024.08,Software Engineer
+CUST2025TR,56,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Real Estate, Travel",134773.67,Consultant
+CUST2025MO,61,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",252118.44,Business Owner
+CUST2025TY,56,"Daily Essentials, Fitness, Food, Photography, Real Estate, Travel",103973.76,Consultant
+CUST2025DL,34,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",103114.03,Consultant
+CUST2025AK,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",123759.03,Consultant
+CUST2025YN,63,"Daily Essentials, Entertainment, Fitness, Photography, Real Estate, Travel",86194.78,Consultant
+CUST2025JL,44,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",165932.7,Software Engineer
+CUST2025FE,35,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",86818.44,Consultant
+CUST2025WI,56,"Fitness, Food, Photography, Real Estate, Travel",78372.81,Financial Analyst
+CUST2025AN,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",245093.92,Business Owner
+CUST2025YA,41,"Food, Gadgets, Photography, Travel",81902.59,Real Estate Agent
+CUST2025XR,35,"Daily Essentials, Food, Gadgets, Photography, Real Estate, Travel",142790.53,Financial Analyst
+CUST2025OK,38,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",79875.33,Sales Executive
+CUST2025AJ,62,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",119307.42,Consultant
+CUST2025HO,45,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",108482.03,Sales Executive
+CUST2025ZH,48,"Daily Essentials, Fitness, Food, Gadgets, Real Estate, Travel",177453.22,Marketing Manager
+CUST2025DW,51,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",86703.7,Sales Executive
+CUST2025AC,53,"Fitness, Gadgets, Photography, Real Estate, Travel",120373.3,Consultant
+CUST2025RC,56,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",168453.75,Product Manager
+CUST2025JJ,48,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",92731.98,Sales Executive
+CUST2025XM,54,"Daily Essentials, Entertainment, Gadgets, Photography, Travel",111975.58,Software Engineer
+CUST2025FB,52,"Daily Essentials, Fitness, Food, Luxury Fashion, Real Estate, Travel",191890.77,Business Owner
+CUST2025VI,60,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Travel",115098.84,Product Manager
+CUST2025WA,31,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",122309.5,Product Manager
+CUST2025IK,30,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Travel",179609.87,Product Manager
+CUST2025BC,55,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Travel",106861.98,Consultant
+CUST2025DZ,59,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",136980.41,Consultant
+CUST2025HA,34,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",97126.79,Sales Executive
+CUST2025VT,62,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",160337.66,Software Engineer
+CUST2025WV,50,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",124947.3,Real Estate Agent
+CUST2025AS,63,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",82259.51,Sales Executive
+CUST2025OP,51,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",111461.85,Real Estate Agent
+CUST2025ER,62,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",150370.12,Product Manager
+CUST2025CX,41,"Daily Essentials, Food, Luxury Fashion, Photography, Travel",126527.95,Real Estate Agent
+CUST2025ZP,52,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",134494.28,Business Owner
+CUST2025SR,38,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Travel",87279.27,Marketing Manager
+CUST2025GB,25,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",143519.98,Business Owner
+CUST2025PV,44,"Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",128133.9,Consultant
+CUST2025MT,22,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",82647.22,Sales Executive
+CUST2025JM,64,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",128723.96,Real Estate Agent
+CUST2025CY,64,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100662.69,Consultant
+CUST2025RY,28,"Food, Gadgets, Luxury Fashion, Photography, Travel",110398.64,Real Estate Agent
+CUST2025YL,65,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",121942.37,Marketing Manager
+CUST2025IN,35,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Travel",130529.61,Marketing Manager
+CUST2025WG,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",57134.63,Real Estate Agent
+CUST2025UO,57,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",64487.28,Sales Executive
+CUST2025TB,38,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",188279.64,Business Owner
+CUST2025XL,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",151539.7,Product Manager
+CUST2025HC,59,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",126605.07,Real Estate Agent
+CUST2025KM,58,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",121374.26,Product Manager
+CUST2025UK,51,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",117533.02,Marketing Manager
+CUST2025ZO,60,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",115492.91,Consultant
+CUST2025DY,32,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",102609.85,Real Estate Agent
+CUST2025ZR,28,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",65767.13,Sales Executive
+CUST2025QN,35,"Daily Essentials, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100778.27,Consultant
+CUST2025EB,46,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",118379.64,Software Engineer
+CUST2025RP,64,"Daily Essentials, Fitness, Luxury Fashion, Photography, Travel",253659.52,Business Owner
+CUST2025OL,47,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",88506.35,Product Manager
+CUST2025UV,39,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",137248.43,Financial Analyst
+CUST2025KS,42,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",109920.02,Consultant
+CUST2025UB,29,"Daily Essentials, Fitness, Gadgets, Photography, Travel",122408.98,Business Owner
+CUST2025WJ,26,"Daily Essentials, Entertainment, Fitness, Photography, Real Estate, Travel",111010.62,Financial Analyst
+CUST2025WK,43,"Food, Luxury Fashion, Photography, Real Estate, Travel",137843.01,Consultant
+CUST2025MH,23,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",193596.5,Marketing Manager
+CUST2025XS,50,"Fitness, Food, Luxury Fashion, Real Estate, Travel",97767.77,Consultant
+CUST2025BM,48,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",118810.23,Financial Analyst
+CUST2025VH,65,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",184252.69,Product Manager
+CUST2025OJ,64,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",137857.91,Business Owner
+CUST2025MJ,40,"Entertainment, Fitness, Food, Photography, Real Estate, Travel",85199.58,Marketing Manager
+CUST2025ED,45,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",123696.17,Marketing Manager
+CUST2025ZL,63,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",167670.81,Product Manager
+CUST2025WW,31,"Daily Essentials, Entertainment, Fitness, Food, Travel",113903.01,Sales Executive
+CUST2025BN,32,"Entertainment, Fitness, Gadgets, Real Estate, Travel",152370.32,Marketing Manager
+CUST2025DD,44,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate",130347.53,Software Engineer
+CUST2025PS,31,"Daily Essentials, Entertainment, Fitness, Gadgets, Photography, Real Estate, Travel",76176.04,Sales Executive
+CUST2025VG,55,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",102849.14,Sales Executive
+CUST2025VD,24,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",66945.02,Sales Executive
+CUST2025TL,38,"Daily Essentials, Food, Gadgets, Photography, Real Estate, Travel",95082.33,Marketing Manager
+CUST2025LD,34,"Daily Essentials, Fitness, Food, Gadgets, Photography, Real Estate, Travel",126220.26,Marketing Manager
+CUST2025VK,35,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",93414.06,Sales Executive
+CUST2025DG,28,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",130897.88,Product Manager
+CUST2025DQ,45,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",106318.21,Software Engineer
+CUST2025OA,33,"Entertainment, Fitness, Food, Gadgets, Real Estate, Travel",98597.78,Software Engineer
+CUST2025HN,50,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",198849.9,Marketing Manager
+CUST2025CB,56,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",119761.13,Real Estate Agent
+CUST2025UT,65,"Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",150032.99,Software Engineer
+CUST2025LN,64,"Daily Essentials, Fitness, Gadgets, Photography, Real Estate, Travel",133387.86,Software Engineer
+CUST2025KN,59,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate",91626.85,Sales Executive
+CUST2025EM,37,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Travel",96201.69,Sales Executive
+CUST2025GL,59,"Daily Essentials, Entertainment, Food, Photography, Real Estate, Travel",106505.2,Real Estate Agent
+CUST2025BD,55,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",228301.89,Business Owner
+CUST2025EO,59,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",108455.54,Product Manager
+CUST2025ZZ,61,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",100620.17,Business Owner
+CUST2025PE,36,"Daily Essentials, Entertainment, Fitness, Gadgets, Real Estate, Travel",104935.91,Consultant
+CUST2025BO,56,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",88751.08,Real Estate Agent
+CUST2025ZA,54,"Fitness, Food, Luxury Fashion, Photography, Real Estate",152234.36,Marketing Manager
+CUST2025ES,49,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",82930.4,Sales Executive
+CUST2025LZ,23,"Daily Essentials, Fitness, Food, Photography, Real Estate",125449.44,Real Estate Agent
+CUST2025YM,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",101271.58,Marketing Manager
+CUST2025EL,42,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",106304.56,Product Manager
+CUST2025XH,34,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",118290.9,Sales Executive
+CUST2025EC,53,"Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",143998.35,Business Owner
+CUST2025SI,65,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Travel",76637.41,Sales Executive
+CUST2025TX,33,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",289675.43,Business Owner
+CUST2025PO,25,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",160811.3,Business Owner
+CUST2025IU,29,"Daily Essentials, Entertainment, Fitness, Gadgets, Real Estate, Travel",124534.48,Financial Analyst
+CUST2025RL,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",90908.96,Sales Executive
+CUST2025CP,26,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",103151.69,Software Engineer
+CUST2025JR,25,"Daily Essentials, Entertainment, Luxury Fashion, Real Estate, Travel",123317.58,Consultant
+CUST2025MI,28,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Travel",131030.99,Consultant
+CUST2025FL,23,"Entertainment, Food, Gadgets, Photography",170419.75,Product Manager
+CUST2025CG,26,"Daily Essentials, Fitness, Food, Photography, Travel",167293.36,Product Manager
+CUST2025PM,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",259481.29,Business Owner
+CUST2025ZC,36,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",131718.7,Financial Analyst
+CUST2025OZ,45,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",161982.75,Software Engineer
+CUST2025RI,23,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate",157626.49,Consultant
+CUST2025XY,36,"Daily Essentials, Food, Gadgets, Photography, Real Estate, Travel",116489.24,Financial Analyst
+CUST2025PP,42,"Daily Essentials, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",107144.27,Software Engineer
+CUST2025PB,40,"Entertainment, Food, Luxury Fashion, Photography, Real Estate, Travel",145696.9,Software Engineer
+CUST2025LW,27,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",144369.9,Product Manager
+CUST2025CI,33,"Entertainment, Fitness, Food, Gadgets, Photography, Real Estate, Travel",62170.87,Sales Executive
+CUST2025FW,60,"Entertainment, Food, Gadgets, Luxury Fashion, Travel",90839.87,Product Manager
+CUST2025BT,57,"Fitness, Food, Gadgets, Photography, Real Estate, Travel",280647.72,Business Owner
+CUST2025AV,48,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",82013.69,Sales Executive
+CUST2025YQ,53,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",87159.81,Product Manager
+CUST2025WM,42,"Entertainment, Fitness, Food, Photography, Real Estate, Travel",90377.7,Financial Analyst
+CUST2025FP,26,"Food, Gadgets, Luxury Fashion, Photography, Real Estate",66876.43,Sales Executive
+CUST2025PU,29,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",121532.22,Consultant
+CUST2025ST,47,"Daily Essentials, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",105323.67,Sales Executive
+CUST2025MU,26,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",70377.96,Consultant
+CUST2025HV,45,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Real Estate, Travel",122591.69,Real Estate Agent
+CUST2025UF,34,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",112871.78,Sales Executive
+CUST2025XN,55,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography",125838.8,Consultant
+CUST2025BW,36,"Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",103904.27,Consultant
+CUST2025OC,51,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",144471.78,Marketing Manager
+CUST2025HT,36,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Travel",124188.59,Marketing Manager
+CUST2025RM,65,"Daily Essentials, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",112944.29,Real Estate Agent
+CUST2025XZ,42,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",138038.5,Product Manager
+CUST2025IZ,48,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",107159.74,Financial Analyst
+CUST2025EH,46,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",164006.73,Marketing Manager
+CUST2025UN,26,"Daily Essentials, Fitness, Food, Gadgets, Luxury Fashion, Real Estate, Travel",140833.81,Consultant
+CUST2025OY,46,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",137992.32,Product Manager
+CUST2025NG,54,"Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",116940.02,Product Manager
+CUST2025JI,29,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Travel",99766.5,Sales Executive
+CUST2025NQ,58,"Daily Essentials, Food, Luxury Fashion, Real Estate, Travel",84524.84,Financial Analyst
+CUST2025RU,34,"Fitness, Food, Luxury Fashion, Photography, Real Estate",88886.22,Real Estate Agent
+CUST2025MV,44,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Travel",276399.3,Business Owner
+CUST2025JY,62,"Entertainment, Fitness, Food, Gadgets, Real Estate, Travel",128836.13,Software Engineer
+CUST2025OU,47,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",121035.2,Real Estate Agent
+CUST2025OO,24,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Photography, Real Estate, Travel",149864.76,Financial Analyst
+CUST2025HD,53,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Travel",188862.65,Marketing Manager
+CUST2025HI,31,"Daily Essentials, Entertainment, Food, Gadgets, Photography, Real Estate, Travel",223309.22,Business Owner
+CUST2025GQ,62,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Travel",117299.11,Consultant
+CUST2025TE,60,"Daily Essentials, Entertainment, Fitness, Food, Luxury Fashion, Real Estate, Travel",135009.58,Marketing Manager
+CUST2025LF,31,"Daily Essentials, Food, Gadgets, Real Estate, Travel",175962.29,Software Engineer
+CUST2025GD,47,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",99179.51,Consultant
+CUST2025KO,23,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate",133160.4,Consultant
+CUST2025VB,61,"Entertainment, Fitness, Gadgets, Luxury Fashion, Photography",122228.28,Software Engineer
+CUST2025SO,61,"Daily Essentials, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",82982.45,Financial Analyst
+CUST2025IM,40,"Daily Essentials, Entertainment, Gadgets",120289.28,Marketing Manager
+CUST2025GF,46,"Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",260384.87,Business Owner
+CUST2025CV,35,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",111111.94,Software Engineer
+CUST2025PC,47,"Daily Essentials, Entertainment, Fitness, Luxury Fashion, Photography, Real Estate, Travel",122716.19,Marketing Manager
+CUST2025ZE,49,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Real Estate, Travel",123509.54,Software Engineer
+CUST2025VC,62,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography",181413.79,Marketing Manager
+CUST2025CZ,64,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",110901.3,Sales Executive
+CUST2025IQ,40,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",259738.12,Business Owner
+CUST2025EN,39,"Daily Essentials, Fitness, Food, Travel",155360.92,Software Engineer
+CUST2025QM,56,"Luxury Fashion, Real Estate, Travel",175241.71,Software Engineer
+CUST2025YD,61,"Daily Essentials, Entertainment, Gadgets, Luxury Fashion, Real Estate, Travel",101840.36,Real Estate Agent
+CUST2025HF,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",128755.53,Consultant
+CUST2025QL,57,"Entertainment, Food, Gadgets, Travel",269261.54,Business Owner
+CUST2025WZ,51,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Real Estate",125029.21,Product Manager
+CUST2025YV,52,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",107404.67,Software Engineer
+CUST2025CC,24,"Daily Essentials, Fitness, Gadgets, Photography, Real Estate, Travel",79239.88,Sales Executive
+CUST2025MB,48,"Daily Essentials, Entertainment, Food, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",183820.74,Marketing Manager
+CUST2025SN,53,"Daily Essentials, Entertainment, Food, Luxury Fashion, Photography, Travel",145324.49,Marketing Manager
+CUST2025SF,22,"Daily Essentials, Fitness, Luxury Fashion, Photography, Real Estate, Travel",157344.84,Consultant
+CUST2025QT,64,"Daily Essentials, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",161121.06,Product Manager
+CUST2025PG,34,"Daily Essentials, Entertainment, Fitness, Gadgets, Luxury Fashion, Photography, Real Estate, Travel",145124.9,Marketing Manager
+CUST2025TQ,23,"Entertainment, Gadgets, Real Estate, Travel",156551.02,Marketing Manager
+CUST2025FR,57,"Daily Essentials, Entertainment, Fitness, Food, Gadgets, Photography, Travel",101781.19,Product Manager
+CUST2025FM,56,"Daily Essentials, Luxury Fashion, Real Estate, Travel",237547.89,Business Owner

@@ -1,0 +1,40 @@
+{
+    "card_name": "Young Professional Rewards Card",
+    "annual_fee": 99,
+    "rewards_rate": 2.5,
+    "welcome_bonus": "30,000 points after spending $3,000 in the first 3 months.",
+    "credit_score_required": 700,
+    "income_requirement": 90000,
+    "best_for": [
+        "Travel Enthusiasts",
+        "Gadget Lovers",
+        "Fitness Buffs"
+    ],
+    "features": [
+        "No foreign transaction fees",
+        "Complimentary travel insurance",
+        "Exclusive discounts on fitness memberships",
+        "Gadget protection plan"
+    ],
+    "category_rewards": {
+        "travel": 3,
+        "dining": 2,
+        "gas": 1,
+        "streaming": 1,
+        "other": 0.5
+    },
+    "card_type": "Visa Signature",
+    "primary_benefit": "Earn accelerated rewards on travel and dining, with added perks for fitness and gadget purchases.",
+    "design_theme": "Modern Minimalist",
+    "visual_elements": [
+        "Sleek matte finish",
+        "Subtle geometric patterns",
+        "Metallic accents in gold or silver",
+        "Logo featuring a stylized globe and fitness icon"
+    ],
+    "unique_selling_points": [
+        "Tailored rewards for travel, dining, and lifestyle purchases",
+        "Flexible redemption options including travel, cashback, and gadgets",
+        "Access to exclusive events and networking opportunities for young professionals"
+    ]
+}

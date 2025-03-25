@@ -1,0 +1,107 @@
+[
+    {
+        "cluster_id": 0,
+        "name": "High-Value Real Estate Investors",
+        "size": 110,
+        "avg_age": 47.28181818181818,
+        "avg_income": 124447.17709090911,
+        "avg_transaction": 67988.8565839309,
+        "transaction_freq": 13.463636363636363,
+        "avg_sentiment": -0.09825454545454547,
+        "unique_intents": 1.8636363636363635,
+        "common_interests": [
+            "Real Estate",
+            "Travel",
+            "Luxury Fashion"
+        ],
+        "common_occupations": [
+            "Product Manager",
+            "Software Engineer",
+            "Real Estate Agent"
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "name": "Established Professionals",
+        "size": 171,
+        "avg_age": 55.67251461988304,
+        "avg_income": 129932.3287134503,
+        "avg_transaction": 16630.021574574454,
+        "transaction_freq": 14.52046783625731,
+        "avg_sentiment": -0.12053996101364524,
+        "unique_intents": 2.409356725146199,
+        "common_interests": [
+            "Travel",
+            "Luxury Fashion",
+            "Daily Essentials"
+        ],
+        "common_occupations": [
+            "Consultant",
+            "Marketing Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "name": "Young Professionals",
+        "size": 130,
+        "avg_age": 43.5,
+        "avg_income": 130049.54315384616,
+        "avg_transaction": 18868.185953085333,
+        "transaction_freq": 13.276923076923078,
+        "avg_sentiment": 0.48582692307692305,
+        "unique_intents": 1.4384615384615385,
+        "common_interests": [
+            "Travel",
+            "Gadgets",
+            "Fitness"
+        ],
+        "common_occupations": [
+            "Business Owner",
+            "Sales Executive",
+            "Marketing Manager"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "name": "High-Income Middle-Aged Professionals",
+        "size": 179,
+        "avg_age": 31.391061452513966,
+        "avg_income": 116683.99888268157,
+        "avg_transaction": 17846.14750363962,
+        "transaction_freq": 14.910614525139664,
+        "avg_sentiment": -0.14050837988826814,
+        "unique_intents": 2.4860335195530725,
+        "common_interests": [
+            "Travel",
+            "Food",
+            "Gadgets"
+        ],
+        "common_occupations": [
+            "Sales Executive",
+            "Consultant",
+            "Real Estate Agent"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "name": "Active Middle-Aged Professionals",
+        "size": 86,
+        "avg_age": 40.674418604651166,
+        "avg_income": 168145.47639534884,
+        "avg_transaction": 46334.87076082683,
+        "transaction_freq": 19.08139534883721,
+        "avg_sentiment": 0.14590697674418604,
+        "unique_intents": 2.6627906976744184,
+        "common_interests": [
+            "Real Estate",
+            "Travel",
+            "Photography"
+        ],
+        "common_occupations": [
+            "Business Owner",
+            "Product Manager",
+            "Consultant"
+        ]
+    }
+]
