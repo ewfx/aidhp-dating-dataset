@@ -50,7 +50,7 @@ When no good match is found (score < 0.6), GPT curates a brand new card with nam
 ### Outputs Recommendation File
 A final CSV with customer ID, persona tags, recommended or curated card, and match score.
 
-## 🛠️ How We Built It
+## How We Built It
 
 ### Data Merging & Cleaning
 Combined all 3 datasets on customer_ID.
