@@ -87,6 +87,7 @@ Saved results as customer_credit_card_recommendations.csv.
    ```sh
    python create_customer_personas.py
    ```
+   There is a .env file which contains OPENAI_API_KEY in which the user can paste their API key.
 
 ## Tech Stack
 - 🔹 Frontend: No time to build it (JIRAS smh)
