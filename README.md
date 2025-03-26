@@ -59,7 +59,7 @@ Environment variables for API key management.
    ```
 2. Install dependencies  
    ```sh
-   pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
 3. Run the project  
    ```sh
