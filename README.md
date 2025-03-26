@@ -99,3 +99,6 @@ Saved results as customer_credit_card_recommendations.csv.
 - **Tanish Singhal** - [GitHub](#) | [LinkedIn](#)
 - **Harshita Taparia** - [GitHub](#) | [LinkedIn](#)
 - **Shankha Nayek** - [GitHub](#) | [LinkedIn](#)
+
+
+## THANKS!!!
