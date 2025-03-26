@@ -16,9 +16,9 @@
 ## Introduction
 This project uses machine learning and AI to implement an advanced customer persona analysis and credit card recommendation system. It processes customer data to create detailed personas, generates personalized credit card recommendations, and designs tailored products for each customer segment. This project is for the BANK to optimize its credit card sales offerings. Note: We have limited our offerings to credit cards only; please review the Report document for more details.
 
-## Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+## Demo PLEASE READ THE dating_dataset_REPORT.pdf
+🔗 [Live Demo](#) (not applicable)  
+📹 [Video Demo](#) (not applicable)  
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
