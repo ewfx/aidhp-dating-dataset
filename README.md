@@ -1,7 +1,7 @@
 # 🚀 Project Name
 
 ## 📌 Table of Contents
-- [Introduction](#🎯-introduction)
+- [Introduction](#introduction)
 - [Demo](#🎥-demo)
 - [Inspiration](#💡-inspiration)
 - [What It Does](#⚙️-what-it-does)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Introduction
+## Introduction
 This project uses machine learning and AI to implement an advanced customer persona analysis and credit card recommendation system. It processes customer data to create detailed personas, generates personalized credit card recommendations, and designs tailored products for each customer segment. This project is for the BANK to optimize its credit card sales offerings. Note: We have limited our offerings to credit cards only; please review the Report document for more details.
 
 ## 🎥 Demo
